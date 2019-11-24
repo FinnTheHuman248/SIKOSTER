@@ -1,0 +1,4 @@
+-download semua file dan simpen di folder baru, *kasi nama SIKOSTER
+-simpen Folder SIKOSTER di htdocs XAMPP
+-Import db_sikoster ke phpmyadmin
+-jalankan pake localhost
